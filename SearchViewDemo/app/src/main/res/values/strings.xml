@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SearchViewDemo</string>
+    <string name="searchview">请输入搜索内容</string>
+</resources>
